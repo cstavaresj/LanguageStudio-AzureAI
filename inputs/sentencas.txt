@@ -1,14 +1,11 @@
-Frases Positivas:
-- "O atendimento foi excelente e superou minhas expectativas!"
-- "Esse produto é incrível, recomendo para todos!"
-- "Estou muito satisfeito com a qualidade do serviço."
+Frases Utilizadas para Testes
 
-Frases Neutras:
-- "O produto chegou dentro do prazo estipulado."
-- "O evento ocorreu conforme o planejado."
-- "Hoje o tempo está nublado."
+Frases Positivas:
+- "I bought a size S and it fit perfectly. I found the zipper a little bit difficult to get up & down due to the side rushing. The color and material are beautiful in person. Amazingly comfortable!"
+- "I can describe my experience of this game in two words: \"TECHNOLOGY RECHARGED!\" #bestdayever"
+
+Frases Neutras/Mistas:
+- "Long waits...BUT FOR GOOD REASON. Some awesome Italian food and great vibes. Contoso Bistro always has live music or events going on to keep you entertained. The food is good enough to keep me entertained though!"
 
 Frases Negativas:
-- "A experiência foi frustrante e decepcionante."
-- "O suporte demorou muito para responder e não resolveu meu problema."
-- "A qualidade do produto deixou a desejar."
+- "The cafeteria food is getting worse by the day. $15 for a plate of burger and fries does not seem subsidized."

@@ -1,0 +1,14 @@
+Frases Positivas:
+- "O atendimento foi excelente e superou minhas expectativas!"
+- "Esse produto é incrível, recomendo para todos!"
+- "Estou muito satisfeito com a qualidade do serviço."
+
+Frases Neutras:
+- "O produto chegou dentro do prazo estipulado."
+- "O evento ocorreu conforme o planejado."
+- "Hoje o tempo está nublado."
+
+Frases Negativas:
+- "A experiência foi frustrante e decepcionante."
+- "O suporte demorou muito para responder e não resolveu meu problema."
+- "A qualidade do produto deixou a desejar."
